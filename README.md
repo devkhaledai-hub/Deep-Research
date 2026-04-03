@@ -1,4 +1,6 @@
 
+https://github.com/user-attachments/assets/6774ed61-f205-43d6-ab67-f22a21913499
+
 https://github.com/user-attachments/assets/29708bb9-14e3-481b-9d09-70b4b1d2ddc1
 # Deep Research Agent
 
@@ -11,8 +13,11 @@ An autonomous multi-agent research system powered by OpenAI that takes a user qu
 
 > **Screen Recording**
 >
-> [![Deep Research Demo](https://via.placeholder.com/800x450?text=Click+to+Watch+Demo)](Uploading VN20260403_225247.mp4…)
+> [![Deep Research Demo](https://via.placeholder.com/800x450?text=Click+to+Watch+Demo)](https://github.com/user-attachments/assets/b67b5dd0-6a72-4742-81fe-a9fdee7fad91)
 >
+
+
+
 
 ---
 
