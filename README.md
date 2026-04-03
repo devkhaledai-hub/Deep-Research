@@ -140,7 +140,3 @@ View trace: https://platform.openai.com/traces/trace?trace_id=<id>
 ```
 
 ---
-
-## License
-
-This project is for educational purposes as part of the **AI Engineer Agentic Track — The Complete Agent & MCP Course**.
