@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/29708bb9-14e3-481b-9d09-70b4b1d2ddc1
 # Deep Research Agent
 
 An autonomous multi-agent research system powered by OpenAI that takes a user query, plans and executes web searches, synthesizes a detailed markdown report, and delivers it via email — all through a clean Gradio UI.
@@ -6,13 +8,11 @@ An autonomous multi-agent research system powered by OpenAI that takes a user qu
 
 ## Demo
 
-<!-- 🎥 Replace the placeholder below with your screen recording -->
 
 > **Screen Recording**
 >
-> [![Deep Research Demo](https://via.placeholder.com/800x450?text=Click+to+Watch+Demo)](YOUR_VIDEO_LINK_HERE)
+> [![Deep Research Demo](https://via.placeholder.com/800x450?text=Click+to+Watch+Demo)](Uploading VN20260403_225247.mp4…)
 >
-> _Add your screen recording here (e.g., upload to YouTube/Loom and paste the link above)._
 
 ---
 
